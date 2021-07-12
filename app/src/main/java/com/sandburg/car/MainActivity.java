@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity { //hoya
+public class MainActivity extends AppCompatActivity { //hoyaㅁㅁ
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
