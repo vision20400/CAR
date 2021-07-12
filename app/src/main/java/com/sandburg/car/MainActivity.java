@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity { //cn
+public class MainActivity extends AppCompatActivity { //cn 멍청이
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
